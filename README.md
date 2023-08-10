@@ -94,3 +94,35 @@ And that's it! When all of the crayons and totem are soldered, plug it in, attac
 
 - [Male Headers](https://www.alibaba.com/product-detail/2-54mm-2x3-Pin-6-Pin_1600717160583.html?spm=a2700.shop_plser.41413.3.7fc766cdcuFwaP)
 - [Female Headers](https://www.alibaba.com/product-detail/2-54mm-0-1-Pitch-Female_62058511498.html?spm=a2700.galleryofferlist.normal_offer.3.6fe828a8zvRMsa)
+
+## Crypto Text 
+
+### Army:
+Cipher Text: F76273 BDF0DF 82ECED CEB0AF 0BEA4D 14FCB6 265031 31CE5E 5B1257 5882E3 6A3C87 568417 31647C F8E1F1 80F018 011DEE 8DB796 E90DF8 872689 0EEA80 0754CA 5EDC9D 3D4C84
+
+Copper Layer: Key=Yardley’s Expose Pg 121 Line (M)
+
+### Navy:
+Cipher Text: SVIW JIEU QTN DXAOM P 4 H Y CMDMGGXL
+
+Copper Layer: Key=Unit Rochefort Commanded during Pearl Harbor Attack
+
+### Marine Corps:
+Cipher Text: BPNLBOUWNLMBTSTHEKUYWTWMYA
+
+Copper Layer: Key=What Marine Radioman called Battleships on Iwo Jima; -z
+
+### Coast Guard:
+Cipher Text: Mledm Mledm Lae Rfa Jurvos Fuw Iey
+
+Copper Layer: The Substitution portion of the OPALU code the Coast Guard Discovered
+
+### Air Force:
+Cipher Text: GGXDA AFGXG GGDDD GAFGX XXGDF AAFFF DGAXD XGADF XFFGA XXGDX AGFDG GXXGX XXAGA DFFAG GFGXG XFGGX AAFXD GGAFX XFDGA X
+
+Copper Layer: This Man in Black first learned of the key’s death; -z 
+
+### Space Force:
+Cipher Text: cPVROXQDI_D]V@]V_E^Te]RPQBCD\UEARDWVUQSXSTSQ]V_B]CPCRB[_^TYCRZERK\QCXS^XZWVT
+
+Copper Layer: Key=Time of the new branch's new beginning; 292277026596 
