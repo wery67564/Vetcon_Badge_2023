@@ -76,6 +76,10 @@ The back of the crayon (the side with the crypto gibberish you will never solve)
 > [!WARNING]
 > Make sure the male headers are oriented correctly. The slot on the header should be facing toward the tip, as indicated on the silkscreen. You can have them upside down if you want. You rebel you. Except it won't work that way when you plug it in because there is a VCC and ground pin.
 
+![PXL_20230810_172742856](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/b428a0f7-5140-4e14-b444-dcf02ae19d6e)
+
+![PXL_20230810_172827105](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/db1a2d21-72a6-4f0a-8f1e-e3301d36feb5)
+
 And that's it! When all of the crayons and totem are soldered, plug it in, attach the lanyard to the holes in the top, and go do your thing!
 
 ## BOM:
