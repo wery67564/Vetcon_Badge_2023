@@ -1,4 +1,4 @@
-# Vetcon_Badge_2023
+# Vetcon Badge 2023 Build Guide
 
 A short lesson in not fucking up your badge.
 
