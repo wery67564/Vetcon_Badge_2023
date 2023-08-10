@@ -14,3 +14,21 @@ This is your badge, you will need to do a little assembly to have it be complete
 https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering/all
 
 
+The first step is to gently unbag your badge. Some of the components are taped to PCBs, so be gentle to make your life easier down the road. This is what you should have:
+
+![Neat](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/9e6e8a6e-948d-4da6-ab8b-23dab952182c)
+
+The components with links to their supply source will be at the end of this guide. If you are missing anything please reach out to the Vetcon booth.
+
+The order of soldering these together is not critical, but if you solder together the totem (crayon box) first, you may avoid putting the wrong headers on. 
+
+The (5) female headers go on the totem. The (6) male headers go on the crayons. You can do whatever you want, but this method will ensure maximum SAO compatibility. 
+
+> [!WARNING]
+> Make sure the female headers are oriented correctly. The silkscreen shows the orientation of the "key" and it should be oriented so the keys are "pointing up" The below picture demonstrates this.
+
+ ![Front Totem Completed](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/f88f9e46-9fac-4d7b-9fdf-efcaed8e7619)
+
+It is recommended that you solder the headers before the battery pack on the back. It is also recommended that you solder all 6 pins on each header for maximum strength. As mentioned earlier, the fit of the male and female headers is tight, and if the full complement of pins is soldered, it will reduce the chance of breaking a solder joint.
+
+
