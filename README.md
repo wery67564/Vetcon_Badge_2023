@@ -84,20 +84,20 @@ And that's it! When all of the crayons and totem are soldered, plug it in, attac
 
 ## BOM:
 
-- [Green LED](https://www.mouser.com/ProductDetail/604-WP7113LZGCK)
-- [Blue LED](https://www.mouser.com/ProductDetail/859-LTL2P3TBK5)
-- [Red LED](https://www.mouser.com/ProductDetail/606-CMD333URC2)
-- [Yellow LED](https://www.mouser.com/ProductDetail/755-SLI-570YT3F)
-- [White LED](https://www.mouser.com/ProductDetail/696-SLX-LX5093UWC-C)
-- [Orange LED](https://www.mouser.com/ProductDetail/630-HLMP-EJ15-SV000)
+- 1x [Green LED](https://www.mouser.com/ProductDetail/604-WP7113LZGCK)
+- 1x [Blue LED](https://www.mouser.com/ProductDetail/859-LTL2P3TBK5)
+- 1x [Red LED](https://www.mouser.com/ProductDetail/606-CMD333URC2)
+- 1x [Yellow LED](https://www.mouser.com/ProductDetail/755-SLI-570YT3F)
+- 1x [White LED](https://www.mouser.com/ProductDetail/696-SLX-LX5093UWC-C)
+- 1x [Orange LED](https://www.mouser.com/ProductDetail/630-HLMP-EJ15-SV000)
 
-- [0 Ω Resistor](https://www.mouser.com/ProductDetail/603-ZOR-12-T-52-0R)
-- [330 Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD330R0FT)
-- [10K Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD10K1%25TR)
-- [120 Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD120R0FT)
+- 2x [0 Ω Resistor](https://www.mouser.com/ProductDetail/603-ZOR-12-T-52-0R)
+- 1x [330 Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD330R0FT)
+- 1x [10K Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD10K1%25TR)
+- 2x [120 Ω Resistor](https://www.mouser.com/ProductDetail/594-5063JD120R0FT)
 
-- [Male Headers](https://www.alibaba.com/product-detail/2-54mm-2x3-Pin-6-Pin_1600717160583.html?spm=a2700.shop_plser.41413.3.7fc766cdcuFwaP)
-- [Female Headers](https://www.alibaba.com/product-detail/2-54mm-0-1-Pitch-Female_62058511498.html?spm=a2700.galleryofferlist.normal_offer.3.6fe828a8zvRMsa)
+- 6x [Male Headers](https://www.alibaba.com/product-detail/2-54mm-2x3-Pin-6-Pin_1600717160583.html?spm=a2700.shop_plser.41413.3.7fc766cdcuFwaP)
+- 5x [Female Headers](https://www.alibaba.com/product-detail/2-54mm-0-1-Pitch-Female_62058511498.html?spm=a2700.galleryofferlist.normal_offer.3.6fe828a8zvRMsa)
 
 ## Crypto Text 
 
