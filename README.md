@@ -24,7 +24,7 @@ The components with links to their supply source will be at the end of this guid
 
 The order of soldering these together is not critical, but if you solder together the totem (crayon box) first, you may avoid putting the wrong headers on. 
 
-#Totem
+##Totem
 
 The (5) female headers go on the totem. The (6) male headers go on the crayons. You can do whatever you want, but this method will ensure maximum SAO compatibility. 
 
@@ -42,7 +42,9 @@ For aesthetic reasons you can trim the wires so as to not have excess, however, 
 > [!WARNING]
 > The included battery pack is 2x AA batteries, depending on the type of AA battery you use it will produce between 2.4v to 3v. Some SAOs, particularly those with ESP32, Bluetooth/wifi, or the breathalyzer, require 3.3v. There are no constraints that prevent attaching a different battery pack of your choosing so as to have wider SAO compatibility.
 
-#Crayons
+##Crayons
+
+![Crayons](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/ed4fc3c8-d5a2-488f-a141-a57037bbf92b)
 
 The crayon SAOs have three components for each, an LED, a resistor, and a male header. I recommend soldering the header last, but the order is not important. 
 
@@ -50,7 +52,7 @@ The crayon SAOs have three components for each, an LED, a resistor, and a male h
 
 The resistor and LED loose in the bag is for the Marine Corps Crayon, and the Canoe Club crayon and components are in their own bag. I was planning to have them all taped, but I learned hilariously late into assembling the kits that for some reason, tape does not adhere to certain LEDs. Who knew?
 
-If a resistor has come loose in transit the values of the resistor for each crayon are as follows, as well as the LED color:
+If a resistor has come loose in transit the values of the resistor for each crayon are as follows, as well as the LED color
 
 -The Army - Green - 10K Ω
 -Canoe Club - Yellow - 330 Ω
