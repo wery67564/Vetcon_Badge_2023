@@ -31,4 +31,10 @@ The (5) female headers go on the totem. The (6) male headers go on the crayons. 
 
 It is recommended that you solder the headers before the battery pack on the back. It is also recommended that you solder all 6 pins on each header for maximum strength. As mentioned earlier, the fit of the male and female headers is tight, and if the full complement of pins is soldered, it will reduce the chance of breaking a solder joint.
 
+Next, solder the battery pack onto the back of the totem pay attention to which pad is positive and which is negative. The included battery pack has a red wire to denote positive and a black wire to denote negative.
+
+For aesthetic reasons you can trim the wires so as to not have excess, however, you can also just wrap the wires around the battery pack or let them flop out, it is only an aesthetic difference.
+
+> [!WARNING]
+> The included battery pack is 2x AA batteries, depending on the type of AA battery you use it will produce between 2.4v to 3v. Some SAOs, particularly those with ESP32, Bluetooth/wifi, or the breathalyzer, require 3.3v. There are no constraints that prevent attaching a different battery pack of your choosing so as to have wider SAO compatibility.
 
