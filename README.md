@@ -52,16 +52,16 @@ The resistor and LED loose in the bag is for the Marine Corps Crayon, and the Ca
 
 If a resistor has come loose in transit the values of the resistor for each crayon are as follows, as well as the LED color:
 
-The Army - Green - 10K Ω
-Canoe Club - Yellow - 330 Ω
-Puddle Pirates - Orange - 120 Ω
-Chair Force - Blue - 0 Ω
-Marin Crops - Red - 120 Ω
-Star Fleet - White - 0 Ω
+-The Army - Green - 10K Ω
+-Canoe Club - Yellow - 330 Ω
+-Puddle Pirates - Orange - 120 Ω
+-Chair Force - Blue - 0 Ω
+-Marin Crops - Red - 120 Ω
+-Star Fleet - White - 0 Ω
 
 If you do not know how to read resistor values here is a handy guide:
 
-![506515 image0](https://github.com/wery67564/Vetcon_Badge_2023/assets/22899183/48ed0444-2a86-4515-85f1-5df64a4c4588)
+https://www.dummies.com/article/technology/electronics/general-electronics/how-to-read-resistor-values-138047/
 
 And yes, those are zero ohm resistors, yes I know, yes yes, please leave me alone. It looks nice.
 
@@ -70,3 +70,13 @@ The LEDs have a positive/negative orientation, the longer leg of the LED is posi
 The resistor can be soldered to the front or back of the crayon, whichever you prefer, I think the front looks nicer.
 
 The back of the crayon (the side with the crypto gibberish you will never solve) is where the male header goes.
+
+> [!WARNING]
+> Make sure the male headers are oriented correctly. The slot on the header should be facing toward the tip, as indicated on the silkscreen. You can have them upside down if you want. You rebel you. Except it won't work that way when you plug it in because there is a VCC and ground pin.
+
+And thats it! When all of the crayons and totem is soldered, plug it in, attach the lanyard to the holes in the top, and go do your thing!
+
+BOM:
+
+
+
